@@ -1,0 +1,53 @@
+.landing-background {
+    background-color: transparent;
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+    background-size: cover;
+    background-image: url("../images/computer.png");
+    color: "#232129";
+    padding: 100;
+    height: "100%";
+    width: "100%";
+}
+
+.pageStyles {
+    padding: 96;
+    font: "-apple-system, Roboto, sans-serif, serif";
+}
+
+.BuyOneStyles {
+    position: absolute;
+    top: 80%;
+    margin-left: 35%;
+    width: 600px;
+}
+
+.TwitterStyles {
+    position: absolute;
+    top: 5%;
+    right: 5%;
+}
+
+.TwitterSize {
+    height: 100px;
+    width: 100px;
+}
+
+.DiscordStyles {
+    position: absolute;
+    top: 6%;
+    right: 12%;
+}
+
+.DiscordSize {
+    height: 80px;
+    width: 80px;
+}
+
+.h1 { color: #bdae2c; 
+    font-family: 'Rouge Script', cursive; font-size: 150px; 
+    font-weight: normal; 
+    line-height: 48px; 
+    position: absolute;
+    top: 50%;
+    right: 20%; }
